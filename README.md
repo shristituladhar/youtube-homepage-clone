@@ -11,4 +11,4 @@ A simple **YouTube homepage clone** built using **HTML and CSS**. This project r
 - HTML5
 - CSS3
 
-YouTube.com Clone: https://github.com/yourusername/youtube-clone.git
+YouTube.com Clone: https://shristituladhar.github.io/youtube/
