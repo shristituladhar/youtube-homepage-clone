@@ -13,10 +13,9 @@ This project is a **YouTube homepage clone** that I created using **HTML5** and 
 - **HTML5**: Provides the foundational structure of the webpage.
 - **CSS3**: Used for styling, including layout, colors, fonts, and responsiveness.
 
-## Live Demo
+## Preview
 
-You can view the live version of this project here:
-[![YouTube Clone Preview](youtube-preview.png)](file:///C:/Users/shris/Documents/Projectsxx/youtube-clone/youtube.html)
+![YouTube Clone Preview](youtube-preview.png)]
 
 
 ## Project Details
