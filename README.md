@@ -15,8 +15,9 @@ This project is a **YouTube homepage clone** that I created using **HTML5** and 
 
 ## Live Demo
 
-You can view the live version of this project here:  
-[YouTube Clone](https://shristituladhar.github.io/youtube/)
+You can view the live version of this project here:
+[![YouTube Clone Preview](youtube-preview.png)](file:///C:/Users/shris/Documents/Projectsxx/youtube-clone/youtube.html)
+
 
 ## Project Details
 
